@@ -1,0 +1,4 @@
+#ifndef INC_2023_DAY01_H
+#define INC_2023_DAY01_H
+
+#endif //INC_2023_DAY01_H
