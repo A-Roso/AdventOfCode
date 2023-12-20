@@ -1,12 +1,10 @@
 #include <iostream>
 #include "utils.h"
 #include "constants.h"
+#include "day01.h"
 
 
 int main() {
-    std::string path_input_day01;
-    for (std::string s: read_lines(constants::path_input_day01)) {
-        std::cout << s << std::endl;
-    }
+    std::cout << solve_day01_part01_shorter() << std::endl;
     return 0;
 }
